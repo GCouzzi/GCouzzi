@@ -9,8 +9,6 @@
 
 ---
 
-### 🛠️ Tecnologias que utilizo
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
@@ -29,8 +27,6 @@
 </div>
 
 ---
-
-### 🌍 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielcouzzi/" target="_blank">
