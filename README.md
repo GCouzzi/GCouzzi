@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GCouzzi&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCouzzi&layout=compact&theme=tokyonight" height="160"/>
-</div>
-
----
-
 ### 🌍 Onde me encontrar
 
 <p align="center">
