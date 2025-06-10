@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA0F0,100:008080&height=200&section=header&text=Gabriel%20Couzzi&fontSize=40&fontColor=ffffff" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+perfil!&center=true&width=500&height=30&color=0AA0F0&font=Fira%20Code" />
+</p>
+
 ---
 
 ### 🛠️ Tecnologias que utilizo
