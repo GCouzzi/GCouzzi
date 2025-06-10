@@ -38,8 +38,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA0F0,100:008080&height=120&section=footer"/>
 </p>
