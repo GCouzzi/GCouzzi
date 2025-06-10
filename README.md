@@ -1,12 +1,7 @@
 <!-- Banner de boas-vindas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA0F0,100:008080&height=200&section=header&text=Olá%20👋%20Eu%20sou%20Gabriel%20Couzzi!&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA0F0,100:008080&height=200&section=header&text=Gabriel%20Couzzi&fontSize=40&fontColor=ffffff" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Spring+Boot%2C+Java%2C+JS%2C+Python+e+mais!;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=30&color=0AA0F0&font=Fira%20Code" />
-</p>
-
 ---
 
 ### 🛠️ Tecnologias que utilizo
