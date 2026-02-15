@@ -23,12 +23,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GCouzzi&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="center">
