@@ -23,10 +23,6 @@
 
 ---
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GCouzzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GCouzzi&layout=compact&theme=tokyonight"/>
-</div>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GCouzzi&theme=tokyonight&hide_border=false"/>
 </p>
